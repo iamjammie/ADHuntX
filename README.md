@@ -24,10 +24,13 @@ server, no internet connection. That makes it safe for sensitive directory data 
 air-gapped environments. A small read-only PowerShell collector (downloadable from inside the app)
 gathers the data on a domain-joined machine.
 
-> **Part of the Hunt suite.** ADHuntX hunts the directory;
-> **[FluxHunt](https://github.com/iamjammie/FluxHunt)** hunts on the wire and
-> **[HostHunt](https://github.com/iamjammie/HostHunt)** hunts on the box. All are offline and
-> ATT&CK-mapped.
+<!-- suite-nav:start -->
+> **Part of the [iamjammie Hunt suite](https://iamjammie.github.io/FluxHunt/suite.html)** — open-source, offline-first security tooling and knowledge.
+>
+> 🧠 [Hunt-Sage](https://github.com/iamjammie/hunt-sage) (knowledge) · 🌊 [FluxHunt](https://github.com/iamjammie/FluxHunt) (wire) · 🖥️ [HostHunt](https://github.com/iamjammie/HostHunt) (box) · 📡 [HostVigil](https://github.com/iamjammie/HostVigil) (fleet) · 🔐 **ADHuntX** (directory) · 🎯 [Sentinel Matrix](https://github.com/iamjammie/Sentinel-Matrix) (detection coverage) · 🧬 [TTP NEXUS](https://github.com/iamjammie/TTP-Nexus) (frameworks) · 🛡️ [ThreatIntFlux](https://github.com/iamjammie/ThreatIntFlux) (threat intel) · 🔦 [Photonwire](https://github.com/iamjammie/PhotonWire) (air gap) · 🛰️ [SPECTRA](https://github.com/iamjammie/SPECTRA---Space-Cyber-Framework) (space)
+>
+> [Suite hub](https://iamjammie.github.io/FluxHunt/suite.html) · [All projects](https://github.com/iamjammie)
+<!-- suite-nav:end -->
 
 > ⚠️ **Authorized, read-only use only.** ADHuntX is an assessment and analysis platform, **not** an
 > exploitation tool: no credential dumping, password attacks, exploitation, or directory
