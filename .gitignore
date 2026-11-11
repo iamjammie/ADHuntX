@@ -1,0 +1,13 @@
+# Runtime output / local
+*.adhx
+adhuntx-data*.json
+/reports/*
+/logs/*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Node (build tooling, if added)
+node_modules/
